@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://wakatime.com/badge/user/b1694ae0-01c6-49c2-849a-e11c37240a19.svg
+[![wakatime](https://wakatime.com/badge/user/b1694ae0-01c6-49c2-849a-e11c37240a19.svg)](https://wakatime.com/@b1694ae0-01c6-49c2-849a-e11c37240a19)
 <!--
 **wtsugiyono/wtsugiyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
